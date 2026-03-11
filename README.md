@@ -60,4 +60,4 @@ The best performance was achieved using **Random Forest**, reaching an accuracy 
 - NumPy
 - Scikit-learn
 
-## Project Structure
+
